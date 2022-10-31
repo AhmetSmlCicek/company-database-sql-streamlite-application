@@ -1,0 +1,89 @@
+code_sector,letter_sector,title_sector
+1,A,"Agriculture, sylviculture et pêche"
+2,A,"Agriculture, sylviculture et pêche"
+3,A,"Agriculture, sylviculture et pêche"
+5,B,Industries extractives
+6,B,Industries extractives
+7,B,Industries extractives
+8,B,Industries extractives
+9,B,Industries extractives
+10,C,Industrie manufacturière
+11,C,Industrie manufacturière
+12,C,Industrie manufacturière
+13,C,Industrie manufacturière
+14,C,Industrie manufacturière
+15,C,Industrie manufacturière
+16,C,Industrie manufacturière
+17,C,Industrie manufacturière
+18,C,Industrie manufacturière
+19,C,Industrie manufacturière
+20,C,Industrie manufacturière
+21,C,Industrie manufacturière
+22,C,Industrie manufacturière
+23,C,Industrie manufacturière
+24,C,Industrie manufacturière
+25,C,Industrie manufacturière
+26,C,Industrie manufacturière
+27,C,Industrie manufacturière
+28,C,Industrie manufacturière
+29,C,Industrie manufacturière
+30,C,Industrie manufacturière
+31,C,Industrie manufacturière
+32,C,Industrie manufacturière
+33,C,Industrie manufacturière
+35,D,"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné"
+36,E,"Production et distribution d'eau; assainissement, gestion des déchets et dépollution"
+37,E,"Production et distribution d'eau; assainissement, gestion des déchets et dépollution"
+38,E,"Production et distribution d'eau; assainissement, gestion des déchets et dépollution"
+39,E,"Production et distribution d'eau; assainissement, gestion des déchets et dépollution"
+41,F,Construction
+42,F,Construction
+43,F,Construction
+45,G,Commerce; réparation de véhicules automobiles et de motocycles
+46,G,Commerce; réparation de véhicules automobiles et de motocycles
+47,G,Commerce; réparation de véhicules automobiles et de motocycles
+49,H,Transports et entreposage
+50,H,Transports et entreposage
+51,H,Transports et entreposage
+52,H,Transports et entreposage
+53,H,Transports et entreposage
+55,I,Hébergement et restauration
+56,I,Hébergement et restauration
+58,J,Information et communication
+59,J,Information et communication
+60,J,Information et communication
+61,J,Information et communication
+62,J,Information et communication
+63,J,Information et communication
+64,K,Activités financières et d'assurance
+65,K,Activités financières et d'assurance
+66,K,Activités financières et d'assurance
+68,L,Activités immobilières
+69,M,"Activités spécialisées, scientifiques et techniques"
+70,M,"Activités spécialisées, scientifiques et techniques"
+71,M,"Activités spécialisées, scientifiques et techniques"
+72,M,"Activités spécialisées, scientifiques et techniques"
+73,M,"Activités spécialisées, scientifiques et techniques"
+74,M,"Activités spécialisées, scientifiques et techniques"
+75,M,"Activités spécialisées, scientifiques et techniques"
+77,N,Activités de services administratifs et de soutien
+78,N,Activités de services administratifs et de soutien
+79,N,Activités de services administratifs et de soutien
+80,N,Activités de services administratifs et de soutien
+81,N,Activités de services administratifs et de soutien
+82,N,Activités de services administratifs et de soutien
+84,O,Administration publique
+85,P,Enseignement
+86,Q,Santé humaine et action sociale
+87,Q,Santé humaine et action sociale
+88,Q,Santé humaine et action sociale
+90,R,"Arts, spectacles et activités récréatives"
+91,R,"Arts, spectacles et activités récréatives"
+92,R,"Arts, spectacles et activités récréatives"
+93,R,"Arts, spectacles et activités récréatives"
+94,S,Autres activités de services
+95,S,Autres activités de services
+96,S,Autres activités de services
+97,T,Activités des ménages en tant qu'employeurs; activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre
+98,T,Activités des ménages en tant qu'employeurs; activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre
+99,U,Activités extra-territoriales
